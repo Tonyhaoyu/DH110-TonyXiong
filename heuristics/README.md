@@ -4,10 +4,10 @@
 
 Tony Xiong | DH110 | Fall 2021
 
-#### Project Overview:
+### Project Overview:
 Hawaii is a fun state.
 
-#### Severity Ratings:
+### Severity Ratings:
 
 0 = I don't agree that this is a usability problem at all
 

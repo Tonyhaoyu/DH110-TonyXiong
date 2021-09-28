@@ -5,7 +5,7 @@
 Tony Xiong | DH110 | Fall 2021
 
 ### Project Overview:
-Hawaii is a fun state.
+Hawaii is a fun state. While travel and recreations are some of the biggest source of reputation and income for the state, the designs of Hawaii's official websites lack many elements that highlight the strenghts of these divisions. In this assignment, I am going to explore different aspects of Hawaii's website from the standpoint of the Division of Boating and Ocean Recreation and the Department of Human Resources Development, as well as conducting a heuristic evaluation on these two divisions. I will primarily adhere to Nielson's 10 rules of heuristics in my evaluation. As a result, I will be able to identify the strenghts and weaknesses of Hawaii's official websites and offer suggestions that could contribute to an improvement in the website's visuals, intuitiveness, and experience.
 
 ### Severity Ratings - Nielsen Norman Group:
 
@@ -21,7 +21,11 @@ Hawaii is a fun state.
 
 (credit: https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)
 
-### Overall Evaluation
+## Website 1: Division of Boating and Ocean Recreation
+
+The Division of Boating and Ocean Recreation 
+
+Overall Evaluation:
 
 
 applying for a governmental job

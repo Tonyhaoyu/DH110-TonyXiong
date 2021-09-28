@@ -23,10 +23,15 @@ Hawaii is a fun state. While travel and recreations are some of the biggest sour
 
 ## Website 1: Division of Boating and Ocean Recreation
 
-The Division of Boating and Ocean Recreation 
+Link to the website: https://dlnr.hawaii.gov/dobor/
 
-Overall Evaluation:
+The Division of Boating and Ocean Recreation strives to preserve Hawaii's natural and cultural resources and also providing access of these resources to residents and visitors. Many recreational activities, including boating and surfing, are under the juristiction of this division.
 
+Overall Evaluation: The website for the Division of Boating and Ocean Recreation is standard looking, but also information, as it does not contain fancy animations and avant garde styles. However, this could be a negative attribute for a division that is directly in charge of oceanic recreation. The frontpage presents 5 dropdown menus as well as multiple button that would navigate users to different pages, which could be useful and confusing at the same time. Most pages adopt a left-right structure, having a column that goes straight down, which takes up 1/3 of the entire page on the right. This could be distracting visually, as it skews the balance of the website's layout, making visitors lose focus.
+
+## Website 2: Department of Human Resources
+
+Link to the website:
 
 applying for a governmental job
 

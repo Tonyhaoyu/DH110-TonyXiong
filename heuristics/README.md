@@ -28,12 +28,18 @@ Overall Evaluation: The website for the Division of Boating and Ocean Recreation
 
 ##### 1. Visibility of System Status
 
-While the website provides the most basic forms of visibility cues, these cues are not done effectively, and sometimes completely omitted. In addition, when a user types in the search bar, a list of suggestions does not appear, rendering this human-computer interaction less than ideal, as the user does not get a feedback from the system.
+While the website provides the most basic forms of visibility cues, these cues are not done effectively, and sometimes completely omitted. In one case, no visual cues are given for a list of dropdowns, which could confuse the users. In the case of entering a password, the system does not give any meaning response to the user besides refreshing the page when a wrong password is being inputted. In addition, when a user types in the search bar, a list of suggestions does not appear, rendering this human-computer interaction less than ideal, as the user does not get a feedback from the system. Though all these problems suggest a lack of visual cues, the website does adopt some visibility of system status, just not on a consistent basis. (2)
 
-Suggestions: the website should incorporate more visual cues that informs the users of the validity of their actions. One example would be having a list of suggestions for a user search, effectively telling the user that the system is aware of their action, and is trying to make the process easier. The website should also avoid underlined texts, as 
+Recommendation: The website should incorporate more visual cues that informs the users of the validity of their actions. One  would be having a list of suggestions for a user search, effectively telling the user that the system is aware of their action, and is trying to make the process easier. The website should also add an error message when the user makes a wrong input or a call for further actions.
 
 ##### 2. Match Between System and the Real World
-The website often fails to distinguish between links and important notices. One common practice is having hyperlinks that are not underlined and plain texts that are underlined. This would confuse users, as they would mistaken call-to-actions with plain texts. It also does not align with implied internet rules, as underlines are usually associated with hyperlinks instead of texts.
+The website often fails to distinguish between links and important notices, by having hyperlinks that are not underlined and plain texts that are underlined. This would confuse users, as they would mistaken call-to-actions with plain texts. It also does not align with common internet standards, as underlines are usually associated with hyperlinks instead of texts. The right 1/3 of the website stays the same no matter what sub-page the user is on, which is both not intuitive and confusing. (2)
+
+Recommendation: Instead of having a stationary section on every page, we should consider adding either an extra dropdown menu or having these information at the bottom of the webpage. The website could also avoiding using underlines on non-hyperlinked texts, and considering exchanging these with bold letters or italics.
+
+##### 3. User Control and Freedom
+
+
 
 ## Website 2: Department of Human Resources
 

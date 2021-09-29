@@ -39,7 +39,21 @@ Recommendation: Instead of having a stationary section on every page, we should 
 
 ##### 3. User Control and Freedom
 
+This is no clear indication of the previous actions taken by the user, meaning the users might find it difficult navigate back and forth. Instead, the website relies on the built-in back arrow button on the web-browser, which is less useful in recalling actions. In addition, the user have little control over the scholling motion of the pictures on the frontpage. (2)
 
+Recommendation: The website should have a small list of actions on top of the page that contains the names or actions the users have taken so far. This would allow the users recollect the actions they took and move in between steps much easier. Regarding the scrolling animation on the frontpage, the website should consider having arrows on both sides so the users can view the pictures upon action.
+
+##### 4. Consistency and Standards
+
+This website is very inconsistent in terms of the layouts and fonts. Almost all the sub-pages use a different style, with varying font sizes, colors, and buttons. This would greatly hinder the smooth transition between the pages and make the users feel like the website it perhaps designs by multiple developers. For instance, blue blue fonts can be seen on the "NUMBERING YOUR VESSEL" page and is not seen anywhere else. Such visual intrusion would not only make the website seem unprofessional, but also negatively affect the user experience. (3)
+
+Recommendation: The website should adopt a uniform style of design, perhaps drawing elements from a design guide, to ensure the consistency of styles and contents.
+
+##### 5. Error Prevention
+
+User need to enter a password when accessing content on the "Property Mangement" page, and when the password is wrong, there is no error, but a simple refresh of the page.
+
+Recommendation: 
 
 ## Website 2: Department of Human Resources
 

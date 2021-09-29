@@ -81,7 +81,7 @@ Recommendation: For a wrong password, the website should point the user to ways 
 
 ##### 10. Help and Documentation
 
-The website does offer a couple of Q&A sections, though not for all pages. In addition, the "Stay Connected" button, which is one means to contact authorities, takes the users to a different site instead of the one for the Division of Boating and Ocean Recreation. This could cause the users to question the validity of their actions and is also not a intuitive design. The website also does not have a live-chat feature. (2)
+The website does offer a couple of Frequently Asked Questions sections, though not for all pages. In addition, the "Stay Connected" button, which is one means to contact authorities, takes the users to a different site instead of the one for the Division of Boating and Ocean Recreation. This could cause the users to question the validity of their actions and is also not a intuitive design. The website also does not have a live-chat feature. (2)
 
 Recommendation: The website should have more Q&A sections, possibly for all the pages that might require user inquiries. For the "Stay Connected" page, the website should have it as a sub-page instead of a completely seperate site. Building a live-chat feature could also be helpful, since users could get a more prompt response to their questions.
 
@@ -94,12 +94,61 @@ The career page for the Department of Human Resources is in charge of recruiting
 Overall Evaluation: Upon first visit, the career page for the Department of HUman Resources is more modern looking than many of the official governmental webpage for Hawaii. This is appropriate as the site serves to attract job seekers. The website incorporate images and videos to provide a more immersive user epxerience; however, the usage of space and structure could be improved, as many spaces are left blank with no particular purposes. The website includes 6 sub-pages with no dropdown menus, making the navigation process easier for users.
 
 ##### 1. Visibility of System Status
+
+The website has some visual cues to guide the users, but not sufficient enough for a smooth user experience. For instance, on the search-for-job page, the job titles do not convey that they are clickable, which might make users think that they are plain texts and miss out on detailed job descriptions. However, on the job application page, the website does a good job showing where and what information is missing and completed. (1)
+
+Recommendation: The website should consider making visual signals more noticably, especially on the job page. One method would be enlarging font sizes on job titles or changing their color, so the users can easily identify call-to-actions and important information.
+
 ##### 2. Match Between System and the Real World
+
+While underlines are mostly associated with hyperlinks on websites, we can see many underlined texts that are plain texts and hyperlinks that are "disguised" as plain texts. This could confuse the users as they would not be able to identify call-to-action buttons. Upon discoverying non-civil jobs, the users are expected to be able to apply to these jobs online, but they are not being offered the option. Since the website does not explain to the users how the application for non-civil jobs work, the users are practially left in the dark. (2)
+
+Recommendation: The website should avoid using underlines on plain texts and instead consider changing the font sizes and colors. This is to prevent any possible confusion with clickable links. On the non-civil job page, the website should consider adding an external link to take the users directly to the application portable instead of leaving the users to figure out the process for themselves.
+
 ##### 3. User Control and Freedom
+
+When the user enters the search-for-job page, there is no effective way to return to previous steps, meaning the users are practically stuck on this page. The only way for the user to backtrack would be to use the built-in button on the web browser, making the entire process less than ideal. Though this is rather small issue, but having it on the most important page of the website, it should take priority in fixing. (3)
+
+Recommendation: A return button should be added so the users could go back to the previous page.
+
 ##### 4. Consistency and Standards
+
+The styles for most pages are consistent, except for that of the job page. It is apparent that these pages are built seperately, making them look like different websites. This could potentially confuse the users, and adding on to the fact that there is no effective way to maneuver between these pages, it is possible for the user to think that they have misclicked and taken to a different site. (3)
+
+Recommendation: The website should adopt a uniform design for all its pages, including the job application portal. It should make the font and font sizes consistent, as well as the styles and colors used.
+
 ##### 5. Error Prevention
+
+The "Read More" button for upcoming career events does not work and would simply refresh the current page, confusing the user and hindering the overall experience. (1)
+
+Recommendation: Since this is a bug on the development side, the website should either fix this link or completely remove it to avoid confusion.
+
 ##### 6. Recognition Rather Than Recall
+
+The system does not keep a user search history, meaning the users would have to recall and retype the search keywords that they have previously typed. This would not only slow down user action, but also encourage recall, making the user experience less ideal. (2)
+
+Recommendation: The website should keep the search history of the user, at least for the period that the users are visiting the website. As a result, the users would engage in recognition, rather than recall, when conducting a search.
+
 ##### 7. Flexibility and Efficiency of Use
+
+There are multiple links that take the users to an external site, making it hard to track user actions. Users might also find it difficult to return to previous steps. In addition, on the job application page, a user cannot manually save their progress, which might cause the users to be afraid to exit the page. As a result, if the users would like to visit other sections of the website, they would have to open a new window. (2)
+
+Recommendation: The website should open a new window on external links, so the users do not have to navigate back to the main site. The application page should include a "save progress" button, so the users can conduct other actions.
+
 ##### 8. Aesthetics and Minimalist Design
+
+While the overall design of this website is a step-up from the other Hawaii official sites, it still could be improved from an aesthetic standpoint. The website often fails to display its most important contents. For instance, the "how to apply" video, which is arguably the most important video on the page, is small and not accessible, as the users have to scroll down to see it. There are also multiple instances of counterintuitive use of space, often by having blank spaces in the middle of the screen, which skews the focus of the page. (1)
+
+Recommendation: The website should strive to put emphasis on contents it wants the users to see and hide less desired contents. One way of doing so is to have these contents at the very top of the page, making them the center of focus. The website should also enlarge pictures and videos to make them more visually impactful.
+
 ##### 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+When an invalid user search is conducted or when a job does not exist, a simple error messages saying "no results" and "check back later" would appear, which do not guide the users to more meaningful actions. (2)
+
+Recommendation: The website should add guiding actions to help the users with further steps. For instance, upon an invalid search, the website could provide a list of possible results to assist the users in finding useful information. When a job is not available, the site should list off similar positions that the user might be interested in.
+
 ##### 10. Help and Documentation
+
+The website, unfortunately, makes its Frequently Asked Questions section hard to find, and the only link that directs the users to it under every page does not work. This would make the users potentially miss answers to many common questions. The contact us page, on the other hand, is easier to identify. (2)
+
+Recommendation: The website should make the link to FAQ under each page valid, so the users can gain easy access to it. A button on top of every page would also be helpful. The website should also consider adding a live-chat feature, which would help answer short questions promptly.

@@ -89,4 +89,17 @@ Recommendation: The website should have more Q&A sections, possibly for all the 
 
 Link to the website: http://jobs.hawaii.gov/
 
+The career page for the Department of Human Resources is in charge of recruiting and retaining both civil and non-civil servants who wish to contribute to the betterment of Hawaii. It is a stand-alone website from the main governmental website with a focus on job searches and applications.
 
+Overall Evaluation: Upon first visit, the career page for the Department of HUman Resources is more modern looking than many of the official governmental webpage for Hawaii. This is appropriate as the site serves to attract job seekers. The website incorporate images and videos to provide a more immersive user epxerience; however, the usage of space and structure could be improved, as many spaces are left blank with no particular purposes. The website includes 6 sub-pages with no dropdown menus, making the navigation process easier for users.
+
+##### 1. Visibility of System Status
+##### 2. Match Between System and the Real World
+##### 3. User Control and Freedom
+##### 4. Consistency and Standards
+##### 5. Error Prevention
+##### 6. Recognition Rather Than Recall
+##### 7. Flexibility and Efficiency of Use
+##### 8. Aesthetics and Minimalist Design
+##### 9. Help Users Recognize, Diagnose, and Recover From Errors
+##### 10. Help and Documentation

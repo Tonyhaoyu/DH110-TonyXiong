@@ -28,7 +28,7 @@ Overall Evaluation: The website for the Division of Boating and Ocean Recreation
 
 ##### 1. Visibility of System Status
 
-While the website provides the most basic forms of visibility cues, these cues are not done effectively, and sometimes completely omitted. In one case, no visual cues are given for a list of dropdowns, which could confuse the users. In the case of entering a password, the system does not give any meaning response to the user besides refreshing the page when a wrong password is being inputted. In addition, when a user types in the search bar, a list of suggestions does not appear, rendering this human-computer interaction less than ideal, as the user does not get a feedback from the system. Though all these problems suggest a lack of visual cues, the website does adopt some visibility of system status, just not on a consistent basis. (2)
+While the website provides the most basic forms of visibility cues, these cues are not done effectively and sometimes completely omitted. In one case, no visual cues are given for a list of dropdowns, which could confuse the users. When a wrong password is entered, the system does not give any meaningful response to the user besides refreshing the page. In addition, when a user types in the search bar, a list of suggestions does not appear, rendering this human-computer interaction less than ideal, as the user does not get a feedback from the system. Though all these problems suggest a lack of visual cues, the website does adopt some visibility of system status, just not on a consistent basis. (2)
 
 Recommendation: The website should incorporate more visual cues that informs the users of the validity of their actions. One  would be having a list of suggestions for a user search, effectively telling the user that the system is aware of their action, and is trying to make the process easier. The website should also add an error message when the user makes a wrong input or a call for further actions.
 
@@ -51,14 +51,42 @@ Recommendation: The website should adopt a uniform style of design, perhaps draw
 
 ##### 5. Error Prevention
 
-User need to enter a password when accessing content on the "Property Mangement" page, and when the password is wrong, there is no error, but a simple refresh of the page.
+User need to enter a password when accessing content on the "Property Mangement" page, and when the password is wrong, there is no error, but a simple refresh of the page. This is arguably worse than not having providing methods to retrieve and reset passwords, as the users are completely left in the dark and might even repeat the process multiple times. Thus, this problem should be taken in priority. (3)
 
-Recommendation: 
+Recommendation: The website should add in an error message that explains the situation to the user when a wrong password is being entered. If appropriate, the website should also include methods to potentially retrieve the password, and if not appropriate, then we should be given a contact information that could resolve the issue.
+
+##### 6. Recognition rather than Recall
+
+The website does a great job at eliminating recalls and makes sure that users only need to go through a recognition process. One minor issue is that the website does not keep the user's search history, meaning the user would have to recall and retype previous searches in order to be directed to those pages. This would prolong the search process and also hinder the overall user experience. (1)
+
+Recommendation: The website should include the search history for user searches, so the users could simply recognize the previous searches they made, rather than recalling them.
+
+##### 7. Flexibility and Efficiency of Use
+
+For the most part, the website functions flexibly and efficiently. However, many hyperlinks on this website take the user to a completely different website, and to return, the user would have to keep clicking on the return button on the web browser. This could lead to info loss, user experience difficulties, and potentially complete re-dos. (2)
+
+Recommendation: For hyperlinks that would lead to a different site, the website should open a seperate webpage so that users do not have to go back and forth between the two and worry about information loss. This would make the user experience more effcient and also grant users more flexibility.
+
+##### 8. Aesthetic and Minimalist Design
+
+The overall aesthtic of the website is reminiscent of that from the 2000s, where the websites are very informative, but not visually thought-out. For instance, a stationary picture serves as the background for all the sub-pages, and meaningful contents are being place inside a box, taking up around only 70% of the webpages. The lack of animations also contribute to this archaic design style, which no longer aligns with Hawaii's recreation-centric business model. Thus, having a more modern look should be a priority. (3)
+
+Recommendation: Having a more minimalist look and adding animations to the website could help elevate its overall aesthetics and appeal to younger users. The website could also use more videos and pictures to showcase the natural and cultural beauty of Hawaii, which is one of the primary goals of this division.
+
+##### 9. Help Users Recognize, Diagnose, and Recover From Errors
+
+When a wrong password is entered on the "Property Management" page, no error message is shown and no reset methods are suggested. When an invalid search is conducted, the website simply says "sorry. no results." without offering any suggestions. Both of these designs can be seen as "dead-ends" from a user experience standpoint, as the user would be stuck on these steps and find it difficult to move forward. (2)
+
+Recommendation: For a wrong password, the website should point the user to ways to recovery the password or contact the personnels in charge. For an invalid search, the website could list out search results that could potentially match the user's entry.
+
+##### 10. Help and Documentation
+
+The website does offer a couple of Q&A sections, though not for all pages. In addition, the "Stay Connected" button, which is one means to contact authorities, takes the users to a different site instead of the one for the Division of Boating and Ocean Recreation. This could cause the users to question the validity of their actions and is also not a intuitive design. The website also does not have a live-chat feature. (2)
+
+Recommendation: The website should have more Q&A sections, possibly for all the pages that might require user inquiries. For the "Stay Connected" page, the website should have it as a sub-page instead of a completely seperate site. Building a live-chat feature could also be helpful, since users could get a more prompt response to their questions.
 
 ## Website 2: Department of Human Resources
 
-Link to the website:
+Link to the website: http://jobs.hawaii.gov/
 
-applying for a governmental job
 
-weather & surf

@@ -33,7 +33,7 @@ While the website provides the most basic forms of visibility cues, these cues a
 
 <img src="./3.png">
 
-Recommendation: The website should incorporate more visual cues that informs the users of the validity of their actions. One  would be having a list of suggestions for a user search, effectively telling the user that the system is aware of their action, and is trying to make the process easier. The website should also add an error message when the user makes a wrong input or a call for further actions.
+>* Recommendation: The website should incorporate more visual cues that informs the users of the validity of their actions. One  would be having a list of suggestions for a user search, effectively telling the user that the system is aware of their action, and is trying to make the process easier. The website should also add an error message when the user makes a wrong input or a call for further actions.
 
 #### 2. Match Between System and the Real World
 The website often fails to distinguish between links and important notices, by having hyperlinks that are not underlined and plain texts that are underlined. This would confuse users, as they would mistaken call-to-actions with plain texts. It also does not align with common internet standards, as underlines are usually associated with hyperlinks instead of texts. The right 1/3 of the website stays the same no matter what sub-page the user is on, which is both not intuitive and confusing. (2)

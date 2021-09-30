@@ -168,6 +168,8 @@ Recommendation: The website should strive to put emphasis on contents it wants t
 
 When an invalid user search is conducted or when a job does not exist, a simple error messages saying "no results" and "check back later" would appear, which do not guide the users to more meaningful actions. (2)
 
+<img src="./8.png">
+
 Recommendation: The website should add guiding actions to help the users with further steps. For instance, upon an invalid search, the website could provide a list of possible results to assist the users in finding useful information. When a job is not available, the site should list off similar positions that the user might be interested in.
 
 ##### 10. Help and Documentation

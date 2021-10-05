@@ -21,23 +21,23 @@ The test administrator contacted and recruited participants via AIDS.gov from th
 Each individual session lasted approximately one hour. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire (see Attachment A). Participants read the task scenarios and tried to find the information on the website. 
 
 After each task, the administrator asked the participant to rate the interface on a 5-point Likert Scale with measures ranging from Strongly Disagree to Strongly Agree. Post-task scenario subjective measures included (see Attachment B): 
-How easy it was to find the information from the home page.
-Ability to keep track of their location in the website.
-Accurateness of predicting which section of the website contained the information.
+- How easy it was to find the information from the home page.
+- Ability to keep track of their location in the website.
+- Accurateness of predicting which section of the website contained the information.
 
 After the last task was completed, the test administrator asked the participant to rate the website overall by using a 5-point Likert scale (Strongly Disagree to Strongly Agree) for eight subjective measures including:
-Ease of use
-Frequency of use
-Difficulty to keep track of location in website
-Learn ability  - how easy it would be for most users to learn to use the website
-Information facilitation – how quickly participant could find information
-Look & feel appeal – homepage’s content makes me want to explore the site further
-Site content – site’s content would keep me coming back 
-Site organization
+- Ease of use
+- Frequency of use
+- Difficulty to keep track of location in website
+- Learn ability  - how easy it would be for most users to learn to use the website
+- Information facilitation – how quickly participant could find information
+- Look & feel appeal – homepage’s content makes me want to explore the site further
+- Site content – site’s content would keep me coming back 
+- Site organization
 
 In addition, the test administrator asked the participants the following overall website questions:
-What the participant liked most.
-What the participant liked least.
-Recommendations for improvement. 
+- What the participant liked most.
+- What the participant liked least.
+- Recommendations for improvement. 
 
 See Attachment C for the subjective and overall questionnaires.

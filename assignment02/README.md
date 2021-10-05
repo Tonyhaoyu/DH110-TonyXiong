@@ -13,7 +13,7 @@ Tony Xiong, a student of DH110, conducted an online usability test of the websit
 
 ## Methodology
 The test administrator contacted and recruited the participant from his list of contacts. The test administrator sent a briefing of this usability test to the participate, informing him of the test logistics and requesting his availability and participation. The participant responded with an appropriate date and time. 
-The session lasted approximately one hour. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire (see Attachment A). Participants read the task scenarios and tried to find the information on the website.
+The session lasted approximately 30 minutes. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire (see Attachment A). Participants read the task scenarios and tried to find the information on the website.
 
 After each task, the administrator asked the participant to rate the interface on a 5-point Likert Scale with measures ranging from Strongly Disagree to Strongly Agree. Post-task scenario subjective measures included (see Attachment B): 
 - How easy it was to find the information from the home page.

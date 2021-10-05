@@ -5,23 +5,15 @@ Tony Xiong | DH110 | Fall 2021
 
 Link to the website: https://dlnr.hawaii.gov/dobor/
 
-[Include and introduction about the Web site or application and the purpose of the site.]
-For example:
-AIDS.gov serves as an information gateway to drive traffic to Federal domestic HIV/AIDS information and resources. AIDS.gov provides a central repository of information across government resources providing users easy access to federal information resources.
+Hawaii.gov is the official website for the state of Hawaii. Its division of Boating and Oceanic Recreation, which is the main subject of this case of usability testing, oversees preservation and the entertainment activities regarding the natural and cultural resources of Hawaii.
 
 A usability test is intended to determine the extent an interface facilitates a user’s ability to complete routine tasks. Typically the test is conducted with a group of potential users either in a usability lab, remotely (using e-meeting software and telephone connection), or on-site with portable equipment. Users are asked to complete a series of routine tasks. Sessions are recorded and analyzed to identify potential areas for improvement to the web site. 
 
-[Provide a summary about who conducted the test and what they used. Include a brief summary about the session data.] For example: 
-The AIDS.gov usability engineers conducted an onsite usability test using a live version of AIDS.gov located on the test administrator’s laptop. Two laptops using Morae software captured the participant’s face, comments, navigation choices and the data logger’s notes. The test administrator and data logger were present in the testing room. The session captured each participant’s navigational choices, task completion rates, comments, overall satisfaction ratings, questions and feedback. 
-
+Tony Xiong, a student of DH110, conducted an online usability test of the website for Hawaii's division of Boating and Oceanic Recreation via Zoom. This is a pilot testing session aimed to test the settings and the materials for future usability tests. There was only one participant. The application captured the participant's face, comments, and navigation choices. The sesseion was conducted in the rooms of the participant and the test administrator respectively, where a stable wifi connection and a quiet environment was achieved. The session captured the participant’s navigational choices, task completion rates, comments, overall satisfaction ratings, questions and feedback.
 
 ## Methodology
-Sessions
-[Describe how the participants were recruited. Describe the individual sessions – length of time and what happened during those sessions. Explain what the participant was asked to do and what happened post test session. Describe any pre- or post-test questionnaires. Include the subjective and overall questionnaires in the attachments’ section.]
-
-For example: 
-The test administrator contacted and recruited participants via AIDS.gov from the HPLA conference attendee list. The test administrator sent e-mails to attendees informing them of the test logistics and requesting their availability and participation. Participants responded with an appropriate date and time. 
-Each individual session lasted approximately one hour. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire (see Attachment A). Participants read the task scenarios and tried to find the information on the website. 
+The test administrator contacted and recruited the participant from his list of contacts. The test administrator sent a briefing of this usability test to the participate, informing him of the test logistics and requesting his availability and participation. The participant responded with an appropriate date and time. 
+The session lasted approximately one hour. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire (see Attachment A). Participants read the task scenarios and tried to find the information on the website.
 
 After each task, the administrator asked the participant to rate the interface on a 5-point Likert Scale with measures ranging from Strongly Disagree to Strongly Agree. Post-task scenario subjective measures included (see Attachment B): 
 - How easy it was to find the information from the home page.

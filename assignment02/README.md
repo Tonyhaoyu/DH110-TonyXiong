@@ -18,10 +18,10 @@ The session lasted approximately 30 minutes.
 The survey was conducted using Google Form, which the participant filled out with the guidance of the test administrator. The whole process is divided into roughly three sections: the pre-test phase, the testing, and the post-test phase. The pre-testing phase covers information regarding the usability testing itself as well as how the testing would be conducted. Then, the participant is asked to complete 3 tasks that are essential to the functioning of Hawaii's division of Boating and Oceanic Recreation and fill out the respective questions. After this, the participant would complete the post-test survey followed by some personal questions. The entirety of this process would be recorded, except for the personal questions. This is done using Zoom's built in camera, which would capture the participant and his screen.
 
 ## Survey Link
-
+https://drive.google.com/file/d/1jsnqvzBit-qXlyW9Cm-JdthQN8rDUp8Q/view?usp=sharing
 
 ## Video Link
-
+https://drive.google.com/file/d/1jsnqvzBit-qXlyW9Cm-JdthQN8rDUp8Q/view?usp=sharing
 
 ## Reflection
 This test piloting session offered great insight into the structure of the website for Hawaii's Division of Boating and Oceanic Recreation. It also provided me with a better understanding of the usability testing process. Many things went well for this usability testing session, including the recording, the moderation, the screen sharing, etc. The participant was especially engaged in the process, which made the session proceed smoothly. However, during two parts of the usability test, my internet connection broke, resulting in short disconnect between me and the participant. The issue was quickly fixed after the second occurence. This experience overall familiarized me with the usability testing process. I learned that the test administrator needs to be neutral but also to be understanding of the situation. For instance, when the participant was having trouble completing task 2, I had to restrain myself from giving hints, but also to be empathetic of the participant and telling him to move on to the next task without hurting his feelings.

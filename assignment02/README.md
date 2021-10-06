@@ -13,25 +13,9 @@ Tony Xiong, a student of DH110, conducted an online usability test of the websit
 
 ## Methodology
 The test administrator contacted and recruited the participant from his list of contacts. The test administrator sent a briefing of this usability test to the participate, informing him of the test logistics and requesting his availability and participation. The participant responded with an appropriate date and time. 
-The session lasted approximately 30 minutes. During the session, the test administrator explained the test session and asked the participant to fill out a brief background questionnaire (see Attachment A). Participants read the task scenarios and tried to find the information on the website.
+The session lasted approximately 30 minutes.
 
-After each task, the administrator asked the participant to rate the interface on a 7-point Likert Scale. Post-task scenario subjective measures included: 
-- How easy it was to find the information from the home page.
-- Ability to keep track of their location in the website.
-- Accurateness of predicting which section of the website contained the information.
+The survey was conducted using Google Form, which the participant filled out with the guidance of the test administrator. The whole process is divided into roughly three sections: the pre-test phase, the testing, and the post-test phase. The pre-testing phase covers information regarding the usability testing itself as well as how the testing would be conducted. Then, the participant is asked to complete 3 tasks that are essential to the functioning of Hawaii's division of Boating and Oceanic Recreation and fill out the respective questions. After this, the participant would complete the post-test survey followed by some personal questions. The entirety of this process would be recorded, except for the personal questions. This is done using Zoom's built in camera, which would capture the participant and his screen.
 
-After the last task was completed, the test administrator asked the participant to rate the website overall by using a 7-point Likert scale for eight subjective measures including:
-- Ease of use
-- Frequency of use
-- Difficulty to keep track of location in website
-- Learn ability  
-- how easy it would be for most users to learn to use the website
-- Information facilitation – how quickly participant could find information
-- Look & feel appeal – homepage’s content makes me want to explore the site further
-- Site content – site’s content would keep me coming back 
-- Site organization
-
-In addition, the test administrator asked the participants the following overall website questions:
-- What the participant liked most
-- What the participant liked least
-- Recommendations for improvement 
+## Survey Link
+This is the link to the moderator script and the survey: 

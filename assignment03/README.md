@@ -17,6 +17,10 @@ Demographic: people who use websites often
 Preference: people who enjoy traveling and who use online tools to help them plan their travel
 Expertise: N/A
 Mainstream vs extreme: mainstream users are preferred
+### In which context (where, why) would the users do that activity? 
+People who browse online would inevitably use different navigation methods to find the information they want, and this process happens on a daily basis. For traveling purposes, especially those related to Hawaii, would come less often. Users might want to find ticket information, recreational information (surfing, boating, etc) and weather reports for satefy reasons.
+### What do/did the users usually do in order to complete that activity? 
+Users typically use a variety of methods to complete the navigation activity. Some of the most common ones including searching, which often involves typing keywords into search bars to find relevent information. Another approach users take is making educated guesses and clicking to see where the call-to-action takes them, and if they don't land on the right page or find the right information, they would try clicking somewhere else.
 
 ## Step 03: Pick an qualitative research method
 Interview in context will be the main research method used in this study. 

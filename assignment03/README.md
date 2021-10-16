@@ -23,4 +23,13 @@ People who browse online would inevitably use different navigation methods to fi
 Users typically use a variety of methods to complete the navigation activity. Some of the most common ones including searching, which often involves typing keywords into search bars to find relevent information. Another approach users take is making educated guesses and clicking to see where the call-to-action takes them, and if they don't land on the right page or find the right information, they would try clicking somewhere else.
 
 ## Step 03: Pick an qualitative research method
-Interview in context will be the main research method used in this study. 
+Observation + interview is the main research method used in this study, where the participant would perform tasks at his own pace and answer questions posted by the moderator. The participant will first be asked some background questions for the moderator to gain a preliminary understanding of the user's preferences and behavior. The participant is then asked more specific questions that are unique to the web navigation process and perform tasks for the moderator to observe and take note. After completing these tasks, the participant is then asked follow-up questions. These steps make up the general structure of this study.
+
+## Documentations
+Interview script:
+Interview video:
+Interview transcription:
+
+## Interview Insights
+
+## Reflection

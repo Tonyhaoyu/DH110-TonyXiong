@@ -13,5 +13,10 @@ As more frameworks and plugins are developed for websites, the overall experienc
 
 ## Step 02: Target users
 ### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+Demographic: people who use websites often
+Preference: people who enjoy traveling and who use online tools to help them plan their travel
+Expertise: N/A
+Mainstream vs extreme: mainstream users are preferred
 
 ## Step 03: Pick an qualitative research method
+Interview in context will be the main research method used in this study. 

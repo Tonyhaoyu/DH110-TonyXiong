@@ -3,7 +3,7 @@ Tony Xiong | DH 110 | Fall 2021
 
 ## Step 01: Specify the research goal & requirements
 ### What is the main activity your project would support for the users?
-The redesign of the website for Hawaii's Division of Boating and Oceanic Recreation would help improve the traveling experience to the state of Hawaii as well as the effectiveness of Hawaii's advocacy of its natural and artificial resources. The following research on user behavior, especially how on the user conducts searches, would provide important information in regards to improving the intuitiveness of the website and the effectiveness of information delivery in future design processes.
+The redesign of the website for Hawaii's Division of Boating and Oceanic Recreation would help improve the traveling experience to the state of Hawaii as well as the effectiveness of Hawaii's advocacy of its natural and artificial resources. The following research on user behavior, especially how on the user navigates himself on different websites, would provide important information in regards to improving the intuitiveness of the website and the effectiveness of information delivery in future design processes.
 ### What is the basic need/goal involved for that activity? (reference)
 According to Maslow's hierarchy of needs, this activity would fulfill the users' cognitive needs since individuals who seek entertainment and fun in the form of traveling and experiencing nature would want to have the ability to identify possible tasks and choices. By finding which beach to surf or by renting a fishing boat would contribute to one's cognitive desires.
 ### What is(are) the traditional/current solution(s) to satisfy the needs?

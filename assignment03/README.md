@@ -33,7 +33,47 @@ Interview video: https://drive.google.com/file/d/1ChOzYzFE4M7BKbnoPcRfo_duuC65Kw
 Interview transcription: https://docs.google.com/document/d/1aGM8-VVWpvUwVXC_6vdYIrP-CYfb1jmRKncydavXERM/edit?usp=sharing
 
 ## Interview Insights
+2:56  
+yeah, so um, do you also browse the web with your mobile phone?
 
+3:01  
+Usually not because I think the mobile phone screen is too small. It's only for a quick search. But if you're looking for some specific question, I might be preferred to use the computer.
 
+#### On the first website (GeeksforGeeks)
+
+9:17  
+Okay, so would you say you are satisfied with the outcome of this search?
+
+9:29  
+Yeah, those articles are written by some expert in computer science so I am fully confident to trust the result.
+
+#### On the second website (Stack Overflow)
+
+13:12  
+Okay, sounds good. And for this website, would you consider saving the results of your search?
+
+13:20  
+No, cuz it's, oh, I will not bookmark this website. But I will take a note of the answer on my own. So that's usually what I did. Because bookmarking the q&a site, it's not, it's not helpful. I think it's not like Wikipedia. Yeah. So maybe have to check the notes by myself from it. I will not bookmark, then.
+
+#### Comparing the two
+13:51  
+So have you ever had any problems when you're navigating yourself on these websites?
+
+Unknown Speaker  14:14  
+Sure. Like, for the Geeksforgeeks? No, no, because it's a Wikipedia-like website. How can I rely on it for more than just searching some specific and basic terms on it? But for the Stack Overflow? Sometimes. like, if I have a homework question, I don't understand or I don't know how to do, I'll probably search from there. But as I said before, those answers are posted by random people online. So sometimes I cannot, the answer is not trustworthy. 
+
+#### Post-Observation Interview
+
+19:30  
+So are there any searches that you find yourself repeatedly doing all the time?
+
+19:38  
+Probably not. Unless I forgot something about it. About the terminology or about some specific data structure or algorithm. Otherwise, I will not do the repeat search.
+
+19:50  
+Yeah, okay. And if it's something really important, you said, you're probably going to save it some way or bookmark it. Yeah?
+
+19:56  
+Right. Yeah. I'll bookmark.
 
 ## Reflection

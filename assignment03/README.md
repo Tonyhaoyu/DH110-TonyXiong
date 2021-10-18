@@ -26,12 +26,14 @@ Users typically use a variety of methods to complete the navigation activity. So
 Observation + interview is the main research method used in this study, where the participant would perform tasks at his own pace and answer questions posted by the moderator. The participant will first be asked some background questions for the moderator to gain a preliminary understanding of the user's preferences and behavior. The participant is then asked more specific questions that are unique to the web navigation process and perform tasks for the moderator to observe and take note. After completing these tasks, the participant is then asked follow-up questions. These steps make up the general structure of this study.
 
 ## Documentations
-Interview script:
+Interview script: https://docs.google.com/document/d/1GyRfv__laLTNE9YGTi6DEq0r6Qou8nQw03qCCobIr7o/edit?usp=sharing
 
-Interview video:
+Interview video: https://drive.google.com/file/d/1ChOzYzFE4M7BKbnoPcRfo_duuC65KwhJ/view?usp=sharing
 
-Interview transcription:
+Interview transcription: https://docs.google.com/document/d/1aGM8-VVWpvUwVXC_6vdYIrP-CYfb1jmRKncydavXERM/edit?usp=sharing
 
 ## Interview Insights
+
+
 
 ## Reflection

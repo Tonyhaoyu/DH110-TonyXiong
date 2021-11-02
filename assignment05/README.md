@@ -1,6 +1,5 @@
 # DH 110 Assignment 05 - Low Fidelity Prototype
 Tony Xiong | DH 110 | Fall 2021
-## Purpose
-## User Research
-## User Persona and Scenario
-https://github.com/Tonyhaoyu/DH110-TonyXiong/blob/main/assignment04/README.md
+## Overview
+The purpose of a low fidelity prototype is to present a testable and visually identifiable design to aid the process of creating a higher fidelity prototype. The advantage of a low fidelity prototype is that if a user problem occurs or if a design is less than ideal, adjustments can be made in an early stage. For this assignment, I am using Figma to design the low fidelity prototype for the two features I proposed in assignment 4: trip planner and event posting. The reason behind choosing Figma over hand-drawn designs is the flexibility of the tool, where changes can be made easily and testing can be done over the internet. The user persona that I created in assignment 4 are a student who wants to visit Hawaii and a bussiness owner who wants to promote an event on Hawaii. These two scaenarios call for the need for the trip planner and the event posting features respectively. The low fidelity prototype, after its completion, will be given to a potential user of Hawaii's state website to test. Since the two features are not correlated with one another, they are designed seperately and will be tested seperately too.
+## Wireflow

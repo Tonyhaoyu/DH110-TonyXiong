@@ -67,7 +67,13 @@ As shown, they have both passed the 4.5:1 color contrast test (AAA level) by a c
 
 ## Design System
 Typeface: SeoulNamsan (body), Alice (header)
+
 Font Size: 45 (header), 30 (subheader), 25 (body)
+
 Color scheme: 0C4377 (background), FFFFFF (primary), 000000 (secondary), FFFFFF (focus)
+
 Color scheme for dark mode: 202020 (background), FFFFFF (primary), 777777 + 3D3D3D linear fill
+
 Layout grid: 9 rows, 20 gutter
+
+I picked the font SeoulNamsan for its formality since it is a serif font. But at the same time, it also has a bit of fun character to it, which makes it a good complement with the font Alice, a slim sans serif font. Hawaii, being a tourist state that is fun and vibrate and a governmental state itself, deserves a combination of these two fonts.

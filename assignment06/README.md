@@ -23,7 +23,7 @@ Since the visitor page contained many buttons, I mostly experimented with the ro
 <img src="./3.png">
 
 ## Color
-I made four variations in colors, including two for dark mode. I extracted some iconic colors from Hawaii's state emblem and applied them onto both of my daytime designs. However, since the first color scheme was too bright and lacked contrast, I went with the second one.
+I made four variations in colors, including two for dark mode. I extracted some iconic colors from Hawaii's state emblem and applied them onto both of my designs. However, since the first color scheme was too bright and lacked contrast, I went with the second one.
 
 <img src="./4.png">
 
@@ -40,8 +40,30 @@ I asked Emily Wang, who is a UX designer on one of the projects that I am curren
 
 "I like it!"
 
-"The design is a bit too simple...maybe you can add something in the background or like use different colors"
+"The design is a bit too simple...it's alright but maybe you can add something in the background or like use different colors"
 
-""
+"The white buttons really pop out"
+
+"I like the blue background"
+
+"I really like the icons"
+
+"I think it's very clear...like all the things a user can do"
+
+"Maybe work on the dark mode cuz I think it can be better"
+
+"I like how you used two different fonts"
+
+From these feedback, it is not hard to see that Emily enjoyed the overall interface design I presented, especially the color scheme and the use of icons. However, she did mention not once, but twice on how the dark mode could be done better. She stressed that the buttons don't feel like buttons since they are only outlines, and she also pointed out that my backrgound design is a bit simple. Therefore, I added a glassmorphic effect on the buttons for the dark mode to convey the fact that they are indeed buttons. I also added a background pattern that is not too distracting but also works to enrich my design. Here are the two frames after the impression test:
+
+<img src="./7.png">
 
 ## Accessibility
+I conducted a color contrast accessibility test on both the regular and dark mode designs. Here are the results:
+
+<img src="./8.png">
+
+As shown, they have both passed the 4.5:1 color contrast test (AAA level) by a comfortable margin.
+
+## Design System
+Why: 

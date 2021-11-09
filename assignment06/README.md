@@ -32,7 +32,7 @@ For the dark mode, I started with a dark background and white buttons design, wh
 <img src="./5.png">
 
 ## Impression Test
-Here are the two designs I used in the impression test:
+Here are the two designs I used for the impression test:
 
 <img src="./6.png">
 
@@ -63,7 +63,7 @@ I conducted a color contrast accessibility test on both the regular and dark mod
 
 <img src="./8.png">
 
-As shown, they have both passed the 4.5:1 color contrast test (AAA level) by a comfortable margin.
+As shown, they have both passed the 4.5:1 color contrast test (AAA level) by a comfortable margin. This ensures that from a color standpoint, most people can easily identify with all the objects on the page and not stress too much on recognizing, or failing to recognize, any elements.
 
 ## Design System
 Typeface: SeoulNamsan (body), Alice (header)

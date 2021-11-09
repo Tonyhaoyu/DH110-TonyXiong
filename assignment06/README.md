@@ -66,4 +66,4 @@ I conducted a color contrast accessibility test on both the regular and dark mod
 As shown, they have both passed the 4.5:1 color contrast test (AAA level) by a comfortable margin.
 
 ## Design System
-Why: 
+Typeface: SeoulNamsan (body), Alice (Header)

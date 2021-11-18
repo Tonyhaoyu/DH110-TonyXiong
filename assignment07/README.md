@@ -14,6 +14,7 @@ visiting Volcanoes National Park, they could click on the switch icon for a simi
 
 ## Wireflow
 Link to the Figma file: https://www.figma.com/file/uzeYiSpDX02PF1GrtYV0P5/Interactive-Prototype?node-id=0%3A1
+Link to the prototype: https://www.figma.com/proto/uzeYiSpDX02PF1GrtYV0P5/Interactive-Prototype?node-id=4%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 
 Image of the graphical interface:
 <img src="./1.png">

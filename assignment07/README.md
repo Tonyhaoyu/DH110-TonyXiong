@@ -13,6 +13,7 @@ This interactive prototype is for the feature "Smart Trip", which provides trave
 
 ## Wireflow
 Link to the Figma file: https://www.figma.com/file/uzeYiSpDX02PF1GrtYV0P5/Interactive-Prototype?node-id=0%3A1
+
 Image of the graphical interface:
 
 Image of the prototype with wireflows:

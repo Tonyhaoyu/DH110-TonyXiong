@@ -27,7 +27,7 @@ The components I used for the "click to switch" animation:
 <img src="./3.png">
 
 ## Cognitive Walkthrough
-I conducted a cognitive walkthrough of my interactive prototype during class time and received three written feedback from my peers and one oral feedback from Professor Sookie. Here are some feedbacks that stood out to me and the changes I made in response to them:
+I conducted a cognitive walkthrough of my interactive prototype during class time and received three written feedback from my peers and one oral feedback from Professor Sookie. In terms of the purpose of this Smart Trip feature, participants said that they might use it make better plans for a trip to Hawaii or to find more travelling information on Hawaii. They also enjoyed the overall feel of the prototype, saying that it looks very "clean". In terms of places for imporvement, here are some feedbacks that stood out to me and the changes I made in response to them:
 
 1. "There was 2 different kinds of next buttons on different pages. This lack of consistency could be an issue."
 
@@ -44,3 +44,7 @@ This was a comment made by Professor Sookie in regards to my initial design's fa
 4. "The user selections on the "mood" page look like the continue button"
 
 When a user selection resembles the system's default styles, it might confuse the users and make them less certain about their actions. It also makes it harder for users to identify which selections are made by them and which are default commands by the system. To fix this, I simply changed the color of user selections to a lighter shade of blue compared to the system's default button color, white.
+
+After these feedback and the respective changes I made, I conducted a last cognitive walkthrough and short usability testing session with my friend, Alan Nguyen. I walked him through the prototype in order to achieve what the feature set out to do. And here is the link to the recording: https://drive.google.com/file/d/1N_hsL32SxP_nfa4qpS9G_4QtKRHAZw1x/view?usp=sharing
+
+Alan said he enjoyed the flow of the feature and that since it was a linear process, little could go wrong on the user's end. He also liked the alternatives the feature provides on the suggestions page, so that users can see other options that they might be interested in.

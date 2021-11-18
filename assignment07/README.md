@@ -1,4 +1,4 @@
-# DH 110 Assignment 06 - Interface Design
+# DH 110 Assignment 07 - Interface Design
 Tony Xiong | DH 110 | Fall 2021
 
 ## Summary
@@ -20,5 +20,8 @@ Image of the graphical interface:
 
 Image of the prototype with wireflows:
 <img src="./2.png">
+
+The components I used for the "click to switch" animation:
+<img src="./3.png">
 
 ## Cognitive Walkthrough

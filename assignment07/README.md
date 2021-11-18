@@ -27,8 +27,20 @@ The components I used for the "click to switch" animation:
 <img src="./3.png">
 
 ## Cognitive Walkthrough
-I conducted a cognitive walkthrough of my interactive prototype during class time and received three written feedback from my peers and one oral feedback from Professor Sookie. Here are some feedbacks that stood out:
+I conducted a cognitive walkthrough of my interactive prototype during class time and received three written feedback from my peers and one oral feedback from Professor Sookie. Here are some feedbacks that stood out to me and the changes I made in response to them:
 
-1. "The continue button is not coherent throughout all pages"
+1. "There was 2 different kinds of next buttons on different pages. This lack of consistency could be an issue."
 
-2. ""
+Initially, I used the icon for "next" on the suggestion page instead of the text + icon I used across the other pages. This incoherence in style might cause some confusion. Therefore, I adopted the text + icon format in all the pages.
+
+2. "Last result page - missing continue button"
+
+This was a comment made by a different person pointing out the same issue as above, except this time, the person couldn't even find the continue button. Having two different input saying the same thing, I had to make the change to not only make the continue button as visible as possible, but also to stay consistent. As a result, I pushed up the boundary for the frame on the suggestion page to leave the continue button at the bottom, so that users can easily identify it.
+
+3. "You don't know where you are in the process"
+
+This was a comment made by Professor Sookie in regards to my initial design's failure in tracking user progress. In an effort to fix this, I added a progress tracker on top to clearly show which step the user is on, and they can also go back to previous steps by clicking on the progress tracker.
+
+4. "The user selections on the "mood" page look like the continue button"
+
+When a user selection resembles the system's default styles, it might confuse the users and make them less certain about their actions. It also makes it harder for users to identify which selections are made by them and which are default commands by the system. To fix this, I simply changed the color of user selections to a lighter shade of blue compared to the system's default button color, white.

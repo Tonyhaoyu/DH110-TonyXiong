@@ -27,16 +27,15 @@ I designed three different user personas to better connect with potential users 
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment04#readme
 
-## Wireframe and graphic design element variation [assignment06 + part of 07]
+## Low-fidelity prototype
+The interface design started with a low-fidelity prototype, which included all the elements for the features I proposed, but stripped of decorative design elements. For testing purposes, I made the low-fidelity prototype interactive, so that test participants could navigate around the prototype provide accurate feedback. I conducted a short testing session on both of these designs and recorded the results using wireflow graphs and screen recordings.
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment05#readme
 
-The layout, colors, and typefaces are also carefully designed for an optimized user experience. 
+## Wireframe and graphic design element variation
+The layout, colors, and typefaces are also carefully designed for an optimized user experience. I used grids to adjust the layout of the design, extracted colors from Hawaii's emblem for the main color scheme, picked typefaces that are both fun and professional, and ensured that color contrast satisfied the AAA requirement. I also designed a dark mode to optimize the user experience when they are using this feature in a dark environment. I conducted peer review to receive professional feedback on my design choice and adjusted my prototype acccordingly.
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment06#readme
-
-## Low-fidelity prototype (wireflow, assignment06)
-Summary and link to the sketches (may contains the multiple versions and evaluation history)
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype

@@ -8,8 +8,7 @@ Smart Trip is a feature on Hawaii's state website that provides popular travelli
 ## Design statement
 Hawaii is a state that is booming with tourism. While visitors come thousands of miles to the Aloha state, most of them know very little about where to visit and what events to attend to optimize their experience. I hope that this feature could attract more tourists to Hawaii, which would result in both social and economic imporovements for the state. It is also a great way for Hawaii to introduce its own culture to people around the world.
 
-## Competitor analysis:
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+## Competitor analysis
 To better understand the functionality and flow of Hawaii's state website, I conducted a heuristics evaluation on Division of Boating and Ocean Recreation and the Department of Human Resources Development. I used Nielsen Norman's 10 principles of heuristics to identify the strengths and weaknesses of the website and its features. I discovered that even though Hawaii's state website is old-fashioned in its style, it does not sacrifice too much intuitiveness and have the right pieces in place for a markeover.
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/heuristics#readme
@@ -18,13 +17,23 @@ In addition to heuristics, I also conducted a user research, in which the partic
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment02#readme
 
-## User research [contextual inquiry, assignment04]:
-Summary and link to your assignment folder
+## User research
+In order to better understand user behavior, I conducted a contextual inquiry, combining observation with interview. I asked the participant to introduce me to two websites he frequents and the actions he make using these websites. I recorded both the interview and the observation study. The contextual was helpful in identifying users' needs for the design of the Smart Trip feature.
 
-## UX storytelling [persona+scenario, assignment05]
-Summary and link to your assignment folder
+Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment03#readme
+
+## UX storytelling
+I designed three different user personas to better connect with potential users for my Smart Trip feature. Through UX storytelling, I was able to solidify my vision as well as the direction of the design. I drew empathy maps for all three personas, as they reveals the details of my potential users and how they might behave when they are using the feature I propose. Understanding their goals is also pivotal in designing the priority of different elements on the final product.
+
+Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment04#readme
 
 ## Wireframe and graphic design element variation [assignment06 + part of 07]
+
+Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment05#readme
+
+The layout, colors, and typefaces are also carefully designed for an optimized user experience. 
+
+Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment06#readme
 
 ## Low-fidelity prototype (wireflow, assignment06)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)

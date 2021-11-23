@@ -1,12 +1,12 @@
 # Hawaii Smart Trip
 Tony Xiong
 
-## Introduction: a brief information about the project.
+## Introduction
 What is the project about? The motivation of the project and possible contribution.
+Smart Trip is a feature on Hawaii's state website that provides popular travelling recommendations to visitors of Hawaii. Built on Hawaii's state website, as a part of their visitors' page, Smart Trip asks prospect travellers a few questions about their ideal trip to Hawaii, then provides them with a list of popular sites and events to visit based on their needs. This feature adopts a linear format, which makes the user flow intuitive and efficient. It is also user-friendly to visitors of all age groups.
 
 ## Design statement:
-What is the issue and Why do you think it is important to resolve that issue by your project? 
-Hawaii is a state that is booming with tourism. While visitors come thousands of miles to the Aloha state, most of them know very little about where to visit and what events to attend to optimize their experience. Smart Trip is a feature on Hawaii's state website that provides popular travelling recommendations to visitors of Hawaii.
+Hawaii is a state that is booming with tourism. While visitors come thousands of miles to the Aloha state, most of them know very little about where to visit and what events to attend to optimize their experience. I hope that this feature could attract more tourists to Hawaii, which would result in both social and economic imporovements for the state. It is also a great way for Hawaii to introduce its own culture to people around the world.
 
 ## Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated

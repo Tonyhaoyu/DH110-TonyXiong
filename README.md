@@ -40,6 +40,8 @@ Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignmen
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
 Summary statement and link to or an embedded prototype
 
+Cognitive walkthrough
+
 ## Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 

@@ -42,6 +42,13 @@ The high-fidelity prototype of the Smart Trip feature is a product of user resea
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment07#readme
 
-## Pitch video [update the video after recording your presentation]
+## Pitch video
 
 ## Conclusion: what you learned throughout the process
+The UX design process for this project was all-encompassing, as included heuristic evaluations, user research, UX storytelling, prototyping, and cognitive walkthrough along with other aspects that are pivotal to the presentation of the final product. Each aspect was executed professionally and when minor errors were discovered, they were fixed in promptly fashion.
+
+In terms of UX research, I conducted user interviews and heuristic evaluations, which were areas that I did not touch on in previous projects. Through talking with with potential users and analyzing the website that I will be proposing a feature for, these processes deemed to be essential to the design process, as they helped me identify the areas that I need to pay more attention to.
+
+In terms of design, I studied the layout, colors, and typography in depth, which elevated the visual presentation of the final product. Details such as the color contrast and layout grids were often ignored in my previous projects, even though they are important in effectively reaching a wider audience. I also gained more experience with Figma, from using it as a low-fidelity prototyping tool to an interactive presentation tool, I explored aspects of this product that I did not know before.
+
+Overall, the project was a success. I was able to not only learn important UX and UI skills that are all useful in the industry, but also gained valuable experience through the process of running a UX project by myself.

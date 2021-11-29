@@ -32,7 +32,7 @@ Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignmen
 ## Low-fidelity prototype
 The interface design started with a low-fidelity prototype, which included all the elements for the features I proposed but stripped of decorative design elements. For testing purposes, I made the low-fidelity prototype interactive, so that test participants could navigate around the prototype provide accurate feedback. I conducted a short testing session on both of these designs and recorded the results using wire flow graphs and screen recordings.
 
-<img src="./3.png">
+<img src="./6.png">
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment05#readme
 

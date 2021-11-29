@@ -38,12 +38,9 @@ The layout, colors, and typefaces are also carefully designed for an optimized u
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment06#readme
 
 ## High-fidelity prototype (functional/interactive prototype, assignment08)
-Summary statement and link to or an embedded prototype
+The high-fidelity prototype of the Smart Trip feature is a product of user research, persona development, wireframing, and design variations. It encompasses many ideas and feedback from different sources to stand as an interactive product visualization. I implemented scrolling and switching animations using Figma to enhance the testing experience and conducted cognitive walkthrough with other UX designers to identify areas of improvements. Brief user testings were also done to gain direct feeback on the high-fidelity prototype to ensure that the flow of the wireframe is intuitive.
 
-Cognitive walkthrough
-
-## Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment07#readme
 
 ## Pitch video [update the video after recording your presentation]
 

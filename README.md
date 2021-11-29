@@ -7,16 +7,16 @@ Smart Trip is a feature on Hawaii's state website that provides popular travelin
 ## Design statement
 Hawaii is a state that is booming with tourism. While visitors come thousands of miles to the Aloha state, most of them know very little about where to visit and what events to attend to optimize their experience. I hope that this feature could attract more tourists to Hawaii, which would result in both social and economic imporovements for the state. It is also a great way for Hawaii to introduce its own culture to people around the world.
 
-## Competitor analysis
+## Product analysis
 To better understand the functionality and flow of Hawaii's state website, I conducted a heuristics evaluation on the Division of Boating and Ocean Recreation and the Department of Human Resources Development. I used Nielsen Norman's 10 principles of heuristics to identify the strengths and weaknesses of the website and its features. I discovered that even though Hawaii's state website is old-fashioned in its style, it does not sacrifice too much intuitiveness and has the right pieces in place for a makeover.
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/heuristics#readme
 
-In addition to heuristics, I also conducted user research, in which the participant followed my instructions to navigate around the webpage for Hawaii's Division of Boating and Ocean Recreation. I documented the event by screen recording via Zoom. I discovered that even though Hawaii's state website has a clear menu bar, the subsections are confusing for the user to navigate around and find information. The priority of features is also mixed up, which makes the website lack focus.
+## User research
+I conducted user research, in which the participant followed my instructions to navigate around the webpage for Hawaii's Division of Boating and Ocean Recreation. I documented the event by screen recording via Zoom. I discovered that even though Hawaii's state website has a clear menu bar, the subsections are confusing for the user to navigate around and find information. The priority of features is also mixed up, which makes the website lack focus.
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment02#readme
 
-## User research
 In order to better understand user behavior, I conducted a contextual inquiry, combining observation with an interview. I asked the participant to introduce me to two websites he frequents and the actions he makes using these websites. I recorded both the interview and the observation study. The contextual was helpful in identifying users' needs for the design of the Smart Trip feature.
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment03#readme
@@ -24,20 +24,33 @@ Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignmen
 ## UX storytelling
 I designed three different user personas to better connect with potential users for my Smart Trip feature. Through UX storytelling, I was able to solidify my vision as well as the direction of the design. I drew empathy maps for all three personas, as they reveal the details of my potential users and how they might behave when they are using the feature I propose. Understanding their goals is also pivotal in designing the priority of different elements on the final product.
 
+<img src="./1.png">
+<img src="./2.png">
+
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment04#readme
 
 ## Low-fidelity prototype
 The interface design started with a low-fidelity prototype, which included all the elements for the features I proposed but stripped of decorative design elements. For testing purposes, I made the low-fidelity prototype interactive, so that test participants could navigate around the prototype provide accurate feedback. I conducted a short testing session on both of these designs and recorded the results using wire flow graphs and screen recordings.
+
+<img src="./3.png">
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment05#readme
 
 ## Wireframe and graphic design element variation
 The layout, colors, and typefaces are also carefully designed for an optimized user experience. I used grids to adjust the layout of the design, extracted colors from Hawaii's emblem for the main color scheme, picked typefaces that are both fun and professional, and ensured that color contrast satisfied the AAA requirement. I also designed a dark mode to optimize the user experience when they are using this feature in a dark environment. I conducted peer review to receive professional feedback on my design choice and adjusted my prototype accordingly.
 
+<img src="./4.png">
+
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment06#readme
 
-## High-fidelity prototype (functional/interactive prototype, assignment08)
+## High-fidelity prototype
 The high-fidelity prototype of the Smart Trip feature is a product of user research, persona development, wireframing, and design variations. It encompasses many ideas and feedback from different sources to stand as an interactive product visualization. I implemented scrolling and switching animations using Figma to enhance the testing experience and conducted a cognitive walkthrough with other UX designers to identify areas of improvement. Brief user testings were also done to gain direct feedback on the high-fidelity prototype to ensure that the flow of the wireframe is intuitive.
+
+<img src="./5.png">
+
+View interactive prototype here:
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FuzeYiSpDX02PF1GrtYV0P5%2FInteractive-Prototype%3Fnode-id%3D2%253A2%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A2" allowfullscreen></iframe>
 
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment07#readme
 

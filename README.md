@@ -51,7 +51,7 @@ The high-fidelity prototype of the Smart Trip feature is a product of user resea
 Read more here: https://github.com/Tonyhaoyu/DH110-TonyXiong/tree/main/assignment07#readme
 
 ## Pitch video
-See a five-minute pitch of the project here:
+See the five-minute pitch of the project here: https://www.youtube.com/watch?v=GIZhymxKZjU&ab_channel=TonyXiong
 
 ## Conclusion: what you learned throughout the process
 The UX design process for this project was all-encompassing, as included heuristic evaluations, user research, UX storytelling, prototyping, and cognitive walkthrough along with other aspects that are pivotal to the presentation of the final product. Each aspect was executed professionally and when minor errors were discovered, they were fixed in a prompt fashion.
